@@ -1,6 +1,5 @@
 # Hi there!👋
 ```
-##I'm
      ____      _        ____   ____     ________      _______    ____   ____   
      `MM'     dM.      6MMMMb  `MM'     `M`MM`MM\     `M'`MM'    `MM'  6MMMMb  
       MM     ,MMb     8P    Y8  MM       M MM MMM\     M  MM      MM  8P    Y8 
