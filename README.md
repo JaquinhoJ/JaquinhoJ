@@ -1,9 +1,10 @@
 # Hi there!👋
 ```
-88        db    8b    d8
-88       dPYb   88b  d88
-88      dP__Yb  88YbdP88
-88     dP""""Yb 88 YY 88
+ooooo                               
+ 888         ooooooo   oo ooo oooo  
+ 888         ooooo888   888 888 888 
+ 888       888    888   888 888 888 
+o888o       88ooo88 8o o888o888o888o
 
      ____      _        ____   ____     ________      _______    ____   ____   
      `MM'     dM.      6MMMMb  `MM'     `M`MM`MM\     `M'`MM'    `MM'  6MMMMb  
