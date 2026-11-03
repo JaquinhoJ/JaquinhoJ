@@ -7,7 +7,7 @@
         YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88888P Y8888D'        
 ```
 # I'm Jaquinho Jongejan
----
+
 
 ### 🎓 About Me
 I am a student at SintLucas currently using GitHub to learn, explore, and work on school assignments. 
